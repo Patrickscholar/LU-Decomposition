@@ -47,9 +47,10 @@ print(x)
 ```
 
 ## Output:
+1)
 <img width="895" alt="Screenshot 2025-05-22 at 11 06 05 AM" src="https://github.com/user-attachments/assets/fcb6ae62-621f-4008-b972-67865f24d368" />
 
-
+2)
 <img width="746" alt="Screenshot 2025-05-22 at 11 06 25 AM" src="https://github.com/user-attachments/assets/60f4cbd0-7793-4209-9ac3-9b3390442d0f" />
 
 ## Result:
